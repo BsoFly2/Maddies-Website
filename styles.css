@@ -1,0 +1,144 @@
+body{
+    margin: 0px;
+    background-color: rgb(117, 114, 99);
+
+}
+.header{
+    display: flex;
+    background: rgb(238, 237, 235);
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 75px;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    
+}
+ul{
+    display: flex;
+    gap: 10px;
+    padding-right: 75px;
+    font-family: Roboto;
+}
+.title{
+    font-size: 48px;
+    font-family: Roboto;
+    margin-bottom: 0;
+    color: rgb(117, 114, 99);;
+}
+a{
+    font-size: 24px;
+    color: rgb(117, 114, 99);
+}
+.contect-block-one{
+    display: flex;
+    background: rgb(238, 237, 235);
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.logo{
+    font-size: 24px;
+    font-family: Roboto;
+    color: rgb(117, 114, 99);;
+}
+
+.subtext-images{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.title-block-two{
+    text-align: center;
+    font-family: Roboto;
+    font-size: 38px;
+    color: rgb(238, 237, 235);
+}
+.contect-block-three{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: rgb(238, 237, 235);
+    flex: 1;
+    padding: 80px 22% 80px 22%;
+}
+.quote{
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    padding: 0;
+    margin: 0;
+    font-style: italic;
+    color: rgb(117, 114, 99);
+}
+.credit{
+    text-align: right;
+    padding-right: 100px;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+    color: rgb(117, 114, 99);
+}
+.contect-block-four{
+    display: flex;
+   flex: 1;
+   align-items: center;
+   justify-content: space-around;
+   padding: 50px;
+}
+.banner{
+    display: flex;
+    width: 80%;
+    justify-content: space-around;
+    align-items: center;
+    background: rgb(238, 237, 235);
+    border-radius: 25px;
+}
+.Footer{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(117, 114, 99);
+}
+.image{
+    display: flex;
+    align-items: center;
+}
+.subtile{
+    width: 400px;
+    color:  rgb(117, 114, 99);
+}
+.hero-image{
+    border-radius: 25px;
+}
+.contect-block-two{
+    background-color: rgb(117, 114, 99);
+    
+}
+img{
+    border-radius: 25px;
+}
+.image-subtext{
+    width: 200px;
+    color: rgb(238, 237, 235);
+    font-family: Roboto;
+}
+.title-banner{
+    color: rgb(117, 114, 99);
+    font-size: 24px;
+}
+.footer-text{
+    color: rgb(238, 237, 235);
+}
+button{
+    border-radius: 10px;
+    border-style: soild;
+    font-size: 18px;
+    border-color: rgb(117, 114, 99) ;
+    color: rgb(117, 114, 99);
+    padding: 5px 25px 5px 25px;
+}
+   
